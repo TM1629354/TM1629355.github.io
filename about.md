@@ -6,6 +6,6 @@ Write a short paragraph about your interests, skills, or goals.
 
 ## Navigation
 
-[Notebook](notebook.mdLinks to an external site.)
+[CS2 Notebook](cs2-notebook.md)
 
 [Home](index.md)
